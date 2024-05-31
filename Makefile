@@ -82,7 +82,7 @@ vf: $(NAME)
 
 # ===== Tests =====
 TEST_DIR = tests
-TEST_REPO = git@github.com:******42/minishell-tests
+TEST_REPO = git@github.com:triedel42/minishell-tests
 TEST = $(TEST_DIR)/test
 LIBGTEST_DIR = googletest
 LIBGTEST = $(LIBGTEST_DIR)/build/lib/libgtest.a

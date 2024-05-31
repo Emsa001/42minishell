@@ -25,9 +25,6 @@ Correctly parse user inputs to interpret and execute commands. Handle different 
 #### Built-in Commands
 Implement built-in commands such as `cd`, `echo`, `pwd`, `export`, `unset`, `env`, and `exit` with their expected behaviors. Each command has its own set of rules and nuances that need to be replicated accurately.
 
-#### User Interaction
-Create a user-friendly shell experience by managing the display of prompts, maintaining command history, and ensuring responsive handling of user inputs. Implement features like `readline` for input and history management.
-
 #### Compliance with Standards
 Adhere to coding standards (the Norm) while implementing all features. Ensuring your code is clean, maintainable, and free of norm errors
 
